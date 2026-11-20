@@ -4,10 +4,11 @@ IEEE Research Paper on Agile Competency Models: Assessing and  Developing Team S
 
 > A conceptual term paper proposing the **Agile Competency Model (ACM)**, a team-level framework for assessing and developing the skills agile teams need.
 
-**Author:** Bujunuri Vivek
-**Affiliation:** School of Computer Science and Engineering, Lovely Professional University, Phagwara, India
-**Contact:** vivekreddy8541@gmail.com
-**Paper:** [`agile_term_paper_vivek.pdf`](./agile_term_paper_vivek.pdf)
+**Author:** Bujunuri Vivek <br>
+**Affiliation:** School of Computer Science and Engineering, Lovely Professional University, Phagwara, India <br>
+**Contact:** vivekreddy8541@gmail.com<br>
+**Overleaf:** [agile_competency_model_IEEE_paper_vivek](https://www.overleaf.com/project/6ae6dd2951a7ed93c6899b04/share#24a32d520ce78561b0169a825d56390c3689cded36110e9c)<br>
+**Paper:** [`agile_term_paper_vivek.pdf`](./agile_term_paper_vivek.pdf)<br>
 
 **Keywords:** agile software development · competency model · team skills · skill assessment · team development · behavioral software engineering · psychological safety
 
@@ -182,7 +183,7 @@ A hypothetical six-person team with several recent failed releases produced this
 @misc{vivek_acm,
   author = {Bujunuri Vivek},
   title  = {Agile Competency Models: Assessing and Developing Team Skills},
-  note   = {Term paper, School of Computer Science and Engineering, Lovely Professional University}
+  note   = {IEEE research paper, School of Computer Science and Engineering, Lovely Professional University}
 }
 ```
 
